@@ -1,0 +1,6 @@
+Data collected by querying openstreetmap.org by hand :)
+
+OpenStreetMap data are made available via the Open Data Commons Open Database
+License (ODbL): https://opendatacommons.org/licenses/odbl/
+
+See also: openstreetmap.org/copyright

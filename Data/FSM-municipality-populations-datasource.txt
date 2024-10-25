@@ -1,0 +1,10 @@
+Federated States of Micronesia (FSM) Population by Municipality
+
+The source for this data file is:
+  Thomas Brinkhoff: City Population, https://www.citypopulation.de/en/micronesia/
+
+The terms of use are described here:
+  https://www.citypopulation.de/termsofuse.html
+
+City Population cites "PRISM / FSM Division of Statistics (web)" as their
+original data source for this table.
