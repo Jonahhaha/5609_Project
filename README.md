@@ -1,4 +1,4 @@
-# 5609_Project
+# Global Earthquake Analysis: Visualizing Seismic Activity and High-Risk Zones with Processing
 
 In this project, our team analyzed global earthquake occurrences to gain insights into their geographic distribution and intensity. Working collaboratively with two team members, I contributed significantly by generating visual representations of earthquake data and integrating them onto a global map. I leveraged data visualization techniques to illustrate the frequency and extensiveness of earthquakes across various regions, allowing for a clearer understanding of high-risk areas and seismic activity patterns.
 
